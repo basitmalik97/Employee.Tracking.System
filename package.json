@@ -1,0 +1,33 @@
+{
+  "name": "employee-tracking-system",
+  "version": "1.0.0",
+  "description": "This app is an employee tracking system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basitmalik97/Employee-Tracking-System.git"
+  },
+  "keywords": [
+    "Employee",
+    "System",
+    "Tracking",
+    "System",
+    "Employee",
+    "Tracking",
+    "System"
+  ],
+  "author": "Basit Malik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basitmalik97/Employee-Tracking-System/issues"
+  },
+  "homepage": "https://github.com/basitmalik97/Employee-Tracking-System#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.2.4",
+    "mysql2": "^2.1.0"
+  }
+}
