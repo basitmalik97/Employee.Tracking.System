@@ -4,7 +4,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo]()
+![Demo](Employee-Tracking-System)
 
 ## Description
 * Functional application.
