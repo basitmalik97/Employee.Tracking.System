@@ -4,7 +4,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo](Employee-Tracking-System)
+![Demo](./Employee-Tracking-System.mov)
 
 ## Description
 * Functional application.
@@ -49,4 +49,4 @@ So that I can organize and plan my business
 
 ## Repository
 
-  - [Project Repo]()
+  - [Project Repo](https://github.com/basitmalik97/Employee.Tracking.System)
