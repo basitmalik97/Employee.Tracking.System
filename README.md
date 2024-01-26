@@ -4,7 +4,7 @@ Developers are often tasked with creating interfaces that make it easy for non-d
 
 ## Demo 
 
-![Demo](https://drive.google.com/file/d/1m79e8kaNSvD-h_vXHtQVLqscDhup_-3q/view?usp=sharing)
+[Watch Demo](https://drive.google.com/file/d/1m79e8kaNSvD-h_vXHtQVLqscDhup_-3q/view?usp=sharing)
 
 ## Description
 * Functional application.
